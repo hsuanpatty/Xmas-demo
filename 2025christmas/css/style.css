@@ -660,7 +660,7 @@ section:nth-last-child {
 @media (min-width: 1200px) {
   .winter {
     width: 60%;
-    padding: 30px 0 40px;
+    padding: 40px 0 50px;
   }
     
   .grid {

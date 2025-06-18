@@ -1255,6 +1255,18 @@ section:nth-last-child {
   }
 }
 
+@media (min-width: 1400px) { 
+  .new-box-img {
+    width: 40%;
+    margin: auto;
+  }
+
+  .new-box-content {
+    width: 55%;
+    margin: auto;
+  }
+}
+
 /*  footer  */
 .QR-code {
   width: 50px;

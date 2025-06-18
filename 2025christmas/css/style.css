@@ -1241,12 +1241,12 @@ section:nth-last-child {
 
 @media (min-width: 1200px) { 
   .new-box-img {
-    width: 40%;
+    width: 39%;
     margin: auto;
   }
 
   .new-box-content {
-    width: 55%;
+    width: 60%;
     margin: auto;
   }
 

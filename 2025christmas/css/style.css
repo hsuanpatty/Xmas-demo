@@ -653,6 +653,7 @@ section:nth-last-child {
 
   .winter p {
     font: 500 18px "微軟正黑體";
+    line-height: 30px;
   }
 }
 
@@ -670,7 +671,7 @@ section:nth-last-child {
 
 @media (min-width: 1700px) {
   .winter {
-    width: 50%;
+    width: 37%;
   }
 
   .grid {

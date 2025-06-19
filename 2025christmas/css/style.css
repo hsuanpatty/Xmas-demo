@@ -943,6 +943,7 @@ section:nth-last-child {
 
 .travel-box {
   padding: 0 10px 50px;
+  position: relative;
 }
 
 .travel-box li,
@@ -995,6 +996,25 @@ section:nth-last-child {
   padding-bottom: 20px !important;
 }
 
+.hail {
+  position: absolute;
+ left: -15%;
+  width: 133%;
+  animation: haillineT 3s linear infinite alternate;
+}
+
+@keyframes haillineT{
+    0% {
+        top:150px
+    }
+    50% {
+      top: 130px
+    }
+    100%
+    {
+      top: 150px
+    }
+}
 
 @media (min-width: 768px) {
 
